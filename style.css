@@ -1,0 +1,31 @@
+h1{
+    color:black;
+    margin-left:30px; 
+}
+.header{
+    background-color:yellow;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+h2,p{
+    text-align: center;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+} 
+
+body{
+    background-color: #808080;
+}
+a:link{
+    color:black;
+}
+a:visited{
+    color:black;
+}
